@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="f">#F5542D</color>
+    <color name="s">#0F9D58</color>
+    <color name="t">#FF1744</color>
+    <color name="four">#019BF0</color>
+    <color name="unselected_tab_color">#b3ffffff</color>
+    <color name="selected_tab_color">#ffffff</color>
+    <color name="firstColor">#00BCD4</color>
+    <color name="secondColor">#E91E63</color>
+    <color name="thirdColor">#FF5722</color>
+    <color name="fourthColor">#4CAF50</color>
+</resources>

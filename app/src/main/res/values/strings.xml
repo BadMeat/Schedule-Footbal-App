@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Sceball</string>
+    <string name="title_activity_pass">PassActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="favorites">Favorite</string>
+    <string name="cari">Cari</string>
+    <string name="team">Team : %1$s</string>
+    <string name="born">Born :%1$s</string>
+    <string name="wage">Wage : %1$s</string>
+    <string name="position">Position : %1$s</string>
+    <string name="national">Nationality : %1$s</string>
+    <string name="league">League : %1$s</string>
+    <string name="formed">FormedYear : %1$s</string>
+    <string name="manager">Manager : %1$s</string>
+    <string name="stadium">Stadium : %1$s</string>
+    <string name="teamDesc">Description : %1$s</string>
+    <string name="deskription">Description</string>
+    <string name="unkwn">Unkonwn</string>
+    <string name="player">Player</string>
+    <string name="search">Search</string>
+    <string name="vs">VS</string>
+    <string name="noconection">No Internet Connection</string>
+
+    <string-array name="league_array">
+        <item>4328</item>
+        <item>4332</item>
+        <item>4331</item>
+        <item>4330</item>
+    </string-array>
+    <style name="spinner_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/gradient_spinner</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:popupBackground">#DFFFFFFF</item>
+    </style>
+</resources>

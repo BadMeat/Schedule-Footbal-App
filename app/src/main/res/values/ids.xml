@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="next" type="id"/>
+    <item name="pass" type="id"/>
+    <item name="favorite" type="id"/>
+    <item name="jadwal" type="id"/>
+    <item name="teamOne" type="id"/>
+    <item name="goal_one" type="id"/>
+    <item name="goal_two" type="id"/>
+    <item name="teamTwo" type="id"/>
+    <item name="spinner" type="id"/>
+    <item name="imageOne" type="id"/>
+    <item name="imageTwo" type="id"/>
+    <item name="desc" type="id"/>
+    <item name="frag_team_container" type="id"/>
+    <item name="frag_team_container_2" type="id"/>
+    <item name="playerName" type="id"/>
+    <item name="playerPrice" type="id"/>
+    <item name="fav_container" type="id"/>
+    <item name="text1" type="id"/>
+    <item name="text2" type="id"/>
+    <item name="text3" type="id"/>
+    <item name="action_search" type="id"/>
+    <item name="jam" type="id"/>
+    <item name="test_layout" type="id"/>
+    <item name="nextfrag" type="id"/>
+    <item name="addevent" type="id"/>
+</resources>
